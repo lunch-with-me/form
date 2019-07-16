@@ -138,8 +138,8 @@ render() {
 const styles =StyleSheet.create({
     container: {
       flex:1,
-      backgroundColor:'rgb(230, 204, 179)',
-      //backgroundColor:"rgba(40,24,14,0.7)",
+      //backgroundColor:'rgb(230, 204, 179)',
+      backgroundColor:"rgba(40,24,14,0.7)",
       width:"100%",
       height:"100%",
       borderWidth: 3,
